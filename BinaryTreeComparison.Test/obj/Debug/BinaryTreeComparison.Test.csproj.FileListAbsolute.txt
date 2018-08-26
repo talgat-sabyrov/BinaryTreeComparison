@@ -1,0 +1,15 @@
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Test.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Test.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Business.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Data.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\nunit.framework.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Abstractions.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Business.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Data.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\nunit.framework.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\nunit.framework.xml
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\bin\Debug\BinaryTreeComparison.Abstractions.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\obj\Debug\BinaryTreeComparison.Test.csprojResolveAssemblyReference.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\obj\Debug\BinaryTreeComparison.Test.csproj.CoreCompileInputs.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\obj\Debug\BinaryTreeComparison.Test.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Test\obj\Debug\BinaryTreeComparison.Test.pdb

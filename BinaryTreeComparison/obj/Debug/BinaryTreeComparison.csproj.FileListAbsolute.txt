@@ -1,0 +1,15 @@
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.exe.config
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.exe
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.Abstractions.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.Business.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.Data.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.Abstractions.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.Business.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\BinaryTreeComparison.Data.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\obj\Debug\BinaryTreeComparison.csprojResolveAssemblyReference.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\obj\Debug\BinaryTreeComparison.csproj.CoreCompileInputs.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\obj\Debug\BinaryTreeComparison.exe
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\obj\Debug\BinaryTreeComparison.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\Autofac.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison\bin\Debug\Autofac.xml

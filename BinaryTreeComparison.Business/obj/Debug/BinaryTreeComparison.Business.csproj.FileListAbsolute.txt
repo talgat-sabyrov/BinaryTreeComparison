@@ -1,0 +1,10 @@
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\bin\Debug\BinaryTreeComparison.Business.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\bin\Debug\BinaryTreeComparison.Business.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\bin\Debug\BinaryTreeComparison.Abstractions.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\bin\Debug\BinaryTreeComparison.Data.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\bin\Debug\BinaryTreeComparison.Abstractions.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\bin\Debug\BinaryTreeComparison.Data.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\obj\Debug\BinaryTreeComparison.Business.csprojResolveAssemblyReference.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\obj\Debug\BinaryTreeComparison.Business.csproj.CoreCompileInputs.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\obj\Debug\BinaryTreeComparison.Business.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Business\obj\Debug\BinaryTreeComparison.Business.pdb

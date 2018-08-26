@@ -1,0 +1,5 @@
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Data\bin\Debug\BinaryTreeComparison.Data.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Data\bin\Debug\BinaryTreeComparison.Data.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Data\obj\Debug\BinaryTreeComparison.Data.csproj.CoreCompileInputs.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Data\obj\Debug\BinaryTreeComparison.Data.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Data\obj\Debug\BinaryTreeComparison.Data.pdb

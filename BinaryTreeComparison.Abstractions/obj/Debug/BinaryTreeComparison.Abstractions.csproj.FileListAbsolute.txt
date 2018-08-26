@@ -1,0 +1,8 @@
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\bin\Debug\BinaryTreeComparison.Abstractions.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\bin\Debug\BinaryTreeComparison.Abstractions.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\bin\Debug\BinaryTreeComparison.Data.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\bin\Debug\BinaryTreeComparison.Data.pdb
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\obj\Debug\BinaryTreeComparison.Abstractions.csprojResolveAssemblyReference.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\obj\Debug\BinaryTreeComparison.Abstractions.csproj.CoreCompileInputs.cache
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\obj\Debug\BinaryTreeComparison.Abstractions.dll
+c:\users\talgat\source\repos\BinaryTreeComparison\BinaryTreeComparison.Abstractions\obj\Debug\BinaryTreeComparison.Abstractions.pdb
